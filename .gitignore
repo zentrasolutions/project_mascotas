@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias (si se agregan en el futuro)
+node_modules/
+.env
+
+# Vercel
+.vercel/
